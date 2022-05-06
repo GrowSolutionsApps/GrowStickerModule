@@ -1,0 +1,56 @@
+apply plugin: 'com.android.library'
+//apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.andyxialm'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+
+android {
+    compileSdkVersion 32
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 32
+        versionCode 1
+        versionName "1.0"
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    ndkVersion '22.1.7171670'
+}
+
+dependencies {
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation project(':tenor-android-core')
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+    implementation 'com.balysv:material-ripple:1.0.2'
+    implementation 'com.google.android.gms:play-services-ads:20.2.0'
+    implementation 'com.android.support:design:27.1.1'
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
+
+//    implementation 'com.facebook.android:audience-network-sdk:6.2.0'
+//    implementation('com.facebook.android:facebook-android-sdk:6.2.0')
+//            {
+//                exclude module: "support-v4"
+//            }
+    implementation('com.google.android.gms:play-services-auth:17.0.0')
+            {
+                exclude module: 'fragment'
+                exclude module: 'loader'
+            }
+    implementation 'com.google.firebase:firebase-config:19.1.1'
+    //greedy Ads
+//    implementation 'com.greedygame.sdkx:core:0.0.84'
+//    implementation"org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.50"
+//    implementation "com.squareup.moshi:moshi:1.11.0"
+//    implementation "com.squareup.moshi:moshi-adapters:1.11.0"
+////    apply plugin: 'announce'
+//    kapt("com.squareup.moshi:moshi-kotlin-codegen:1.11.0")
+}

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">stickers</string>
+    <string name="title_stickers">Stickers</string>
+    <string name="tab_stickers">STICKERS</string>
+    <string name="tab_downloaded">DOWNLOADED</string>
+
+    <string name="no_internet_try_again" translatable="false">Please check your network connection and try again</string>
+    <string name="network_error" translatable="false">Network Error</string>
+    <string name="network_refresh" translatable="false">Refresh</string>
+
+    <string name="title_stickers_fullscreen">Stickers Pack</string>
+    <string name="Pack_Name">Pack Name</string>
+    <string name="add_to_whatsapp">Add to WhatsApp</string>
+    <string name="share_sticker">Share Sticker</string>
+    <string name="free_emoji">Get Emoji for Free</string>
+    <string name="downloaded_share">Share</string>
+    <string name="downloaded_delete">Delete</string>
+
+    <string name="download_fail_retry">Download Failed,Retry Later</string>
+    <string name="extracting">Extracting…</string>
+    <string name="done">Done</string>
+    <string name="download">Download</string>
+
+    <string name="must_at_least_stickers_add_WhatsApp">Pack must have at least 3 stickers to add on WhatsApp</string>
+    <string name="wait_moment_while_process_your_stickers">Wait a moment while we process your stickers…</string>
+    <string name="processing_images">Processing images</string>
+    <string name="whatsapp_not_installed">Whatsapp not installed in your device</string>
+
+    <string name="error_adding_sticker_pack">Could not add this sticker pack. Please install the latest version of WhatsApp before adding sticker pack</string>
+    <string name="title_validation_error">Error with the pack</string>
+    <string name="add_pack_fail">Something went wrong, Could not add this sticker pack</string>
+
+    <string name="enable_emojikey_keyboard">Enable EmojiKey Keyboard</string>
+
+    <string name="download_alert2" translatable="false">Are you sure want to delete?</string>
+    <string name="no" translatable="false">No</string>
+    <string name="yes" translatable="false">Yes</string>
+
+</resources>

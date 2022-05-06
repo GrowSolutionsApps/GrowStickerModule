@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gnt_text_size_large">15sp</dimen>
+    <dimen name="gnt_text_size_small">11sp</dimen>
+</resources>

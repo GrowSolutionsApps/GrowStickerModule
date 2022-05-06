@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/llTop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/logoIv"
+            android:layout_width="wrap_content"
+            android:layout_height="148dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/img_login_enable" />
+
+    </LinearLayout>
+
+    <!--<LinearLayout-->
+    <!--android:id="@+id/topLayout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="10dp"-->
+    <!--android:orientation="vertical"-->
+    <!--android:background="@android:color/white">-->
+
+    <!--</LinearLayout>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:ellipsize="end"
+            android:fontFamily="@font/vernda"
+            android:gravity="center"
+            android:padding="5dp"
+            android:singleLine="true"
+            android:text="Switch Font Keyboard 🌟 🌟 🌟 "
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvContent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/vernda"
+                android:gravity="center"
+                android:paddingLeft="8dp"
+                android:paddingTop="10dp"
+                android:text="If You Want to Set This Keyboard,then you"
+                android:textColor="@color/black"
+                android:textSize="13dp"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/never"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvContent"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:fontFamily="@font/vernda"
+                android:gravity="center"
+                android:text=" must have Switch This Keyboard. "
+                android:textColor="@color/black"
+                android:textSize="13dp"
+                android:visibility="visible" />
+
+
+        </RelativeLayout>
+
+
+        <!--<TextView-->
+        <!--android:id="@+id/tvOtherContent"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center"-->
+        <!--android:paddingLeft="10dp"-->
+        <!--android:paddingRight="10dp"-->
+        <!--android:paddingBottom="10dp"-->
+        <!--android:textColor="@color/color_dialog_content_prompt"-->
+        <!--android:textSize="14sp"-->
+        <!--android:text="Note : this is very nice "-->
+        <!--android:visibility="visible" />-->
+        <!--<TextView-->
+        <!--android:id="@+id/tvFixrContent"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center"-->
+        <!--android:paddingLeft="10dp"-->
+        <!--android:paddingRight="10dp"-->
+        <!--android:paddingBottom="10dp"-->
+        <!--android:text="Note: Don't worry. This is starndard permission and My Photo Keyboard would not use this access for any other use then mentioned."-->
+        <!--android:textColor="#676767"-->
+        <!--android:textSize="10sp"-->
+        <!--android:visibility="visible" />-->
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/llBtnGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:weightSum="6">
+
+        <!--<TextView-->
+        <!--android:id="@+id/btnNegative"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="3"-->
+        <!--android:background="@drawable/sel_def_gray_right"-->
+        <!--android:clickable="true"-->
+        <!--android:gravity="center"-->
+        <!--android:minHeight="40dp"-->
+        <!--android:text="Cancel"-->
+        <!--android:textColor="#676767"-->
+        <!--android:visibility="visible" />-->
+
+
+        <!--<LinearLayout-->
+        <!--android:layout_weight="0"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:background="@android:color/white"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:orientation="horizontal">-->
+
+        <!--<View-->
+        <!--android:id="@+id/divider"-->
+        <!--android:layout_width="1px"-->
+        <!--android:layout_height="20dp"-->
+        <!--android:layout_gravity="center_vertical"-->
+        <!--android:background="#929292" />-->
+        <!--</LinearLayout>-->
+
+
+        <ImageView
+            android:id="@+id/btnPositive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/_14sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginRight="@dimen/_14sdp"
+            android:layout_marginBottom="@dimen/_3sdp"
+            android:adjustViewBounds="true"
+            android:gravity="center"
+            android:src="@drawable/btn_switch" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/dummy.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/assets/rateus.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/com/myemojikeyboard/theme_keyboard/Fragment/BackgroundDiyFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/com/myemojikeyboard/theme_keyboard/Helper/FileHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/com/myemojikeyboard/theme_keyboard/MainApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/com/myemojikeyboard/theme_keyboard/Sticker/Activity/WAStickerDetailInfoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/com/myemojikeyboard/theme_keyboard/Sticker/Adpter/WAStickerFullPreviewAdpter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/com/myemojikeyboard/theme_keyboard/view/CandidateView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/com/myemojikeyboard/theme_keyboard/view/TouchA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/addons/AddOnImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/addons/AddOnsFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/addons/Support.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/BTreeDictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/DictionaryAddOnAndBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/DictionaryContentObserver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/ExternalDictionaryFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/Suggest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/SuggestionsProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/TextEntryState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/UserDictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/content/AndroidUserDictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/sqlite/AutoDictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/sqlite/SQLiteUserDictionaryBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/sqlite/WordsSQLiteConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/utils/IMEUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/res/layout/activity_sticker_detail_face.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/res/layout/admob_native_loader.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/res/layout/sticker_full_item_wa.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/app/src/main/res/layout/sticker_list_wa.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/base-rx/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/rx/GenericOnError.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/base/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/base/utils/Logger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/dictionaries/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/Dictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/dictionaries/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/DictionaryBackgroundLoader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/jnidictionaryv2/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/dictionaries/jni/ResourceBinaryDictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/prefs/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/prefs/RxSharedPrefs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/EK_V_1.24/prefs/src/main/java/emoji/key/moji/keyboard/sticker/emoji/keyboard/pro/prefs/backup/PrefsXmlStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/GrowWallpaperModule-master/wallpapers/src/main/java/com/grow/wallpapers/activities/WallpaperActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/GrowWallpaperModule-master/wallpapers/src/main/java/com/grow/wallpapers/activities/WallpaperFullScreenActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/GrowWallpaperModule-master/wallpapers/src/main/java/com/grow/wallpapers/viewmodel/WallpapersViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/GrowWallpaperModule-master/wallpapers/src/main/res/layout/activity_wallpaper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/LEDKeyboard_V_1.18_Done/app/src/main/res/layout/activity_diy_share_keyboard.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/LEDKeyboard_V_1.20_Done/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/NewLED_V1.0/app/src/main/java/com/ledkeyboard/adapter/PremiumThemesAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/NewLED_V1.0/app/src/main/java/com/ledkeyboard/fragment/AllDownloadedThemesFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/emojis/keyboard/in/keyboard/whatsapp_api/StickerContentProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/emojis/keyboard/in/keyboard/whatsapp_api/StickerPacksManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/emojis/keyboard/in/keyboard/whatsapp_api/utils/WAFileUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/fontkeyboard/activity/ListOnlineThemeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/fontkeyboard/newSticker/activity/WAStickerDetailInfoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/fontkeyboard/newSticker/activity/WAStickerDownloadedDetailInfoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/fontkeyboard/newSticker/adapter/WADownloadedStickerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/fontkeyboard/newSticker/adapter/WAStickerFullPreviewDownloadedAdpter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/fontkeyboard/newSticker/model/WAEmojiDownloadedDataModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/fontkeyboard/newSticker/model/WAEmojiListDowanload.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/java/com/fontkeyboard/staticData/StaticPath.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/res/layout/activity_sticker_detail_face.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/keyboard/fontkeyboard/FontKeyboard_V_1.44_Done/app/src/main/res/layout/item_downloaded_sticker_wa.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android-Example-master/MVVMwithKotlinCoroutinesandRetrofit/app/src/main/java/com/velmurugan/mvvmwithkotlincoroutinesandretrofit/RetrofitService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MVVM-Kotlin-master-Rxjava/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MVVM-Kotlin-master-Rxjava/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MVVM-Kotlin-master-Rxjava/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MVVM-with-RXJava-and-Retrofit-Users-Generated-Example--master/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MVVM-with-RXJava-and-Retrofit-Users-Generated-Example--master/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MVVM-with-RXJava-and-Retrofit-Users-Generated-Example--master/app/src/main/java/com/universetelecom/mvvm_users/view/activity/UserDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MVVM-with-RXJava-and-Retrofit-Users-Generated-Example--master/app/src/main/java/com/universetelecom/mvvm_users/view/activity/UsersActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MVVM-with-RXJava-and-Retrofit-Users-Generated-Example--master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ColorDialog/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ColorDialog/src/main/java/cn/refactor/lib/colordialog/ThemeDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ColorDialog/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/mvvmstickermodule/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/stickers/src/main/res/layout/activity_stickers.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nativetemplates/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nativetemplates/src/main/java/com/google/rvadapter/AdmobNativeAdAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nativetemplates/src/main/res/layout/admob_native_loader.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nativetemplates/src/main/res/layout/item_admob_native_ad.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/StickerActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/StickersRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/activity/DownloadedStickerFullScreenActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/activity/StickerActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/activity/StickerFullScreenActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/adapter/DownloadedStickerFullScreenAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/adapter/DownloadedStickerItemAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/adapter/DownloadedStickerSAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/adapter/DownloadedStickersAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/adapter/OnlineStickerAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/adapter/OnlineStickerItemAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/adapter/OnlineStickersAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/adapter/StickerFullScreenAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/adapter/StickersAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/fragment/DownloadedStickersFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/fragment/OnlineStickersFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/fragment/StickersDownloadedFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/fragment/StickersOnlineFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/helper/FileHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/identities/StickerPacksContainer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/listener/DownloadedStickerClickListener.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/listener/OnStartDragListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/listener/StickerExpandedClickListener.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/listener/StickerItemClickListener.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/model/DownloadedStickersDataModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/model/StickersListDownload.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/model/StickersModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/model/WAEmojiListDowanload.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/network/CallApiDownloadData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/network/RetroInstance.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/network/RetroService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/preference/PreferenceKeys.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/preference/PreferenceManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/repository/StickerFullScreenRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/repository/StickersRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/ContentFileParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/GlideApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/LeakGuardHandlerWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/RequestPermissionsHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/StaticData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/Sticker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/StickerAddOnComparator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/StickerContentProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/StickerPack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/StickerPacksManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/StickerUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/Utils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/utils/WAFileUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/view/TouchA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/viewmodel/OnlineStickersViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/viewmodel/StickerFullScreenViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/viewmodel/StickersFullScreenModelFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/java/com/example/stickers/viewmodel/StickersModelFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/drawable-xhdpi/drawable_bg_delete.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/drawable/drawable_bg_share_sticker.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/drawable/drawable_bg_whatsapp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/drawable/ic_back.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/drawable/tab_indicator_sticker.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/layout/activity_sticker.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/layout/activity_sticker_full_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/layout/fragment_stickers_downloaded.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/layout/fragment_stickers_online.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/layout/item_sticker_downloaded.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/layout/item_sticker_fullscreen_preview.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/layout/item_sticker_online.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/layout/item_sticker_preview.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/layout/layout_no_network.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/layout/wallpaper_no_network.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/stickers/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MyApplicationnn/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MyApplicationnn/app/src/main/java/com/example/myapplicationnn/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MyApplicationnn/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MyApplicationnn/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MyApplicationnn/nativetemplates/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MyApplicationnn/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MyApplicationnn/stickers/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Native-Template-Ad-in-RecyclerView-master/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/app/src/main/java/com/example/newstickermodulemvvm/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/nativetemplates/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/stickers/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/stickers/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/stickers/src/main/java/com/example/stickers/activity/StickerActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/stickers/src/main/java/com/example/stickers/activity/StickerFullScreenActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/stickers/src/main/java/com/example/stickers/fragment/OnlineStickersFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/stickers/src/main/res/layout/activity_sticker.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/stickers/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewStickerModuleMVVM/stickers/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RecyclerView-Native-ads-Example-main/app/src/main/java/www/technovimal/in/nativerecyclerview/ContactsAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RecyclerView-Native-ads-Example-main/app/src/main/java/www/technovimal/in/nativerecyclerview/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RecyclerView-Native-ads-Example-main/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-basics-kotlin-words-app-main/app/src/main/java/com/example/wordsapp/LetterAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-basics-kotlin-words-app-main/app/src/main/java/com/example/wordsapp/WordListFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-basics-kotlin-words-app-main/app/src/main/res/navigation/nav_graph.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

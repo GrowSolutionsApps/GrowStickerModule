@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="back">
+        <item name="android:layout_height">?android:attr/actionBarSize</item>
+        <item name="android:layout_width">?android:attr/actionBarSize</item>
+        <item name="layout_constraintStart_toStartOf">parent</item>
+        <item name="layout_constraintTop_toTopOf">parent</item>
+    </style>
+    
+</resources>

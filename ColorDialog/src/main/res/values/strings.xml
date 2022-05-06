@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ColorDialog</string>
+
+
+
+
+    <string name="admob_native_play" translatable="false">ca-app-pub-4941710260017988/3533369292</string>
+    <string name="back_admob_native" translatable="false">ca-app-pub-4941710260017988/3533369292</string>
+    <string name="greedy_native" translatable="false">float-4960</string>
+
+
+<!--    <string name="fb_native_banner" translatable="false">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+<!--    <string name="fb_native_banner" translatable="false"></string>-->
+<!--    <string name="fb_app" translatable="false">225019585223181</string>-->
+</resources>
